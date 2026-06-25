@@ -21,7 +21,7 @@ Environment variables read by this plugin (extracted from the source — see the
 
 | Env var |
 |---|
-| `XAI_BASE_URL"` |
+| `XAI_BASE_URL` |
 
 ## Usage
 
